@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: hsl(0, 0%, 11%);
+    color: hsl(0, 0%, 100%);
+}
